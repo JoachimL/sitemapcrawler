@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SitemapCrawler": {
+      "commandName": "Project",
+      "commandLineArgs": "-sms=http://livretter-staging.godfisk.no/sitemap.xml"
+    }
+  }
+}
